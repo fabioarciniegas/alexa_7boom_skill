@@ -1,7 +1,7 @@
 # alexa_7boom_skill
 A skill that allows Alexa to play the game "7 boom" with you.
 
-7 boom is a simple game where you alternate saying numbers sequentially in increasing order except if the number contains a 7 or is multiple of 7, in which case you must say "boom."
+7 boom is a simple game where you alternate saying numbers sequentially except if the number contains a 7 or is multiple of 7, in which case you must say "boom."
 
 e.g.
 
