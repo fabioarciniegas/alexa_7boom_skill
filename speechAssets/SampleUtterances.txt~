@@ -1,0 +1,15 @@
+NumberIntent {guess}
+BoomIntent boom
+BoomIntent paf
+BoomIntent bohm
+BoomIntent bom
+BoomIntent boon
+BoomIntent poon
+BoomIntent poof
+StopIntent enough
+StopIntent stop
+
+
+
+
+
