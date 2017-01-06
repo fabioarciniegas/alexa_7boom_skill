@@ -7,7 +7,12 @@ e.g.
 
 1,2,3,4,5,6,boom,8,9,10,11,12,13,boom,15,16,boom,18,19,20,boom ...etc.
 
+<<<<<<< HEAD
 --
 
+=======
+Fixes for re-submission:
+"cancel" utterance added mention:d4nf3
+>>>>>>> d4nf3-master
 
 
