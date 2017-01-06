@@ -9,3 +9,6 @@ e.g.
 
 
 -----
+Add as an issue:
+TODO: what is the best way to include other numbers into the game?
+
