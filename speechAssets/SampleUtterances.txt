@@ -3,11 +3,14 @@ BoomIntent boom
 BoomIntent paf
 BoomIntent bohm
 BoomIntent bom
+BoomIntent bizz
+BoomIntent fizz
 BoomIntent boon
 BoomIntent poon
 BoomIntent poof
 StopIntent enough
 StopIntent stop
+StopIntent cancel
 
 
 
