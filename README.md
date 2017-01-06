@@ -7,9 +7,7 @@ e.g.
 
 1,2,3,4,5,6,boom,8,9,10,11,12,13,boom,15,16,boom,18,19,20,boom ...etc.
 
-
-
-Monkey
-Add as an issue:
+-----
+Upcoming features
 TODO: what is the best way to include other numbers into the game?
 
