@@ -11,8 +11,3 @@ BoomIntent poof
 StopIntent enough
 StopIntent stop
 StopIntent cancel
-
-
-
-
-
